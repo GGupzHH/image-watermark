@@ -2,3 +2,4 @@ node_modules
 coverage
 assets
 lib/modules/watermark.js
+text.ttf
