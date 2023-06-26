@@ -60,6 +60,7 @@
   },
   "scripts": {
     "watermark": "node ./lib/modules/watermark.js",
+    "watermark-four": "node ./lib/modules/watermark-four.js",
     "filter": "node ./lib/modules/filter.js",
     "pretest": "eslint .",
     "test": "jest"
